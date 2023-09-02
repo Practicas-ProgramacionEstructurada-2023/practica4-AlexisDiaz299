@@ -9,7 +9,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
         {
             Console.WriteLine("\n---------- Usando Sintaxis de estructuras de control selectivas en C# ----------");
             Console.WriteLine("\nOPCIONES:");
-            Console.WriteLine("1. Determinar si el numero es positivo, negrativo o igual a cero.");
+            Console.WriteLine("1. Determinar si el numero es positivo, negativo o igual a cero.");
             Console.WriteLine("2. Mostrar fecha y hora actual.");
             Console.WriteLine("3. Determinar si puede votar y conducir legalmente.");
             Console.WriteLine("4 .Determinar si el numero es par o impar.");
