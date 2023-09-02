@@ -42,7 +42,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 DateTime FechaHora = DateTime.Now;
-                Console.WriteLine("\nLa fecha y hora actual es: " + FechaHora);  
+                Console.WriteLine("\nLa fecha y hora actual es: " + FechaHora +"\n");  
             }
 
             else
